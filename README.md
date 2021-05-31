@@ -1,4 +1,3 @@
-# API
 # Proyecto API
 #### Realizaremos 3 aplicaciones python que realice peticiones a la API:
 * **Listar la información:** Listar el nombre, la dirección y el horario de las farmacias almacenadas.
